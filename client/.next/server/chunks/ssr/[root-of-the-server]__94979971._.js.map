@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/16676/Web%20Dev/Pro/AOBAWOLU/client/src/app/page.tsx"],"sourcesContent":["import Image from 'next/image'\r\n\r\nconst Homepage = () => {\r\n  return (\r\n    <div className=''>\r\n      <div className='relative aspect-[3/1] mb-12'>\r\n        {/* Make a slider here */}\r\n        <Image src='/featured.png' alt='Featured Product' fill />\r\n      </div>\r\n    </div>\r\n  )\r\n}\r\n\r\nexport default Homepage\r\n"],"names":[],"mappings":";;;;AAAA;;;AAEA,MAAM,WAAW;IACf,qBACE,6WAAC;QAAI,WAAU;kBACb,cAAA,6WAAC;YAAI,WAAU;sBAEb,cAAA,6WAAC,4PAAA,CAAA,UAAK;gBAAC,KAAI;gBAAgB,KAAI;gBAAmB,IAAI;;;;;;;;;;;;;;;;AAI9D;uCAEe","debugId":null}}]
+}

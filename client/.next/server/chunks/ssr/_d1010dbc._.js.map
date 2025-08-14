@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 5, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/16676/Web%20Dev/Pro/AOBAWOLU/client/src/components/Categories.tsx"],"sourcesContent":["'use client'\r\n\r\nconst Categories = () => {\r\n  return <div>Categories</div>\r\n}\r\n\r\nexport default Categories\r\n"],"names":[],"mappings":";;;;AAAA;;AAEA,MAAM,aAAa;IACjB,qBAAO,6WAAC;kBAAI;;;;;;AACd;uCAEe","debugId":null}},
+    {"offset": {"line": 25, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/16676/Web%20Dev/Pro/AOBAWOLU/client/src/components/ProductCard.tsx"],"sourcesContent":["'use client'\r\n\r\nimport { ProductType } from '@/lib/types'\r\n\r\nconst ProductCard = ({ product }: { product: ProductType }) => {\r\n  return <div>ProductCard</div>\r\n}\r\n\r\nexport default ProductCard\r\n"],"names":[],"mappings":";;;;AAAA;;AAIA,MAAM,cAAc,CAAC,EAAE,OAAO,EAA4B;IACxD,qBAAO,6WAAC;kBAAI;;;;;;AACd;uCAEe","debugId":null}},
+    {"offset": {"line": 47, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/16676/Web%20Dev/Pro/AOBAWOLU/client/node_modules/.pnpm/next%4015.4.5_react-dom%4019.1.0_react%4019.1.0__react%4019.1.0/node_modules/next/src/server/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = (\n  require('../../module.compiled') as typeof import('../../module.compiled')\n).vendored['react-ssr']!.ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":"AAAAA,OAAOC,OAAO,GACZC,QAAQ,uMACRC,QAAQ,CAAC,YAAY,CAAEC,kBAAkB","ignoreList":[0],"debugId":null}}]
+}
